@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = ""; // Default XAMPP password is empty
+$pass = ""; 
 $dbname = "hotel_db";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
